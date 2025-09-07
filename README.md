@@ -65,7 +65,9 @@ Users can then view available parking slots.
 ## 📸 Screenshots  
 
 🔹 **Home Page**  
-![Home Page] <img width="1767" height="825" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/c285250f-16fc-48d4-9cff-ee6f8b55087f" />
+![Home Page] 
+
+<img width="1767" height="825" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/c285250f-16fc-48d4-9cff-ee6f8b55087f" />
 
 
 🔹 **Signin Page**  
