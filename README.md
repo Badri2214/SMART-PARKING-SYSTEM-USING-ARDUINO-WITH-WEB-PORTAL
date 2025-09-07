@@ -70,15 +70,22 @@ Users can then view available parking slots.
 
 
 🔹 **Signin Page**  
+
 <img width="1896" height="733" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/c7135a5a-8d74-4170-a531-b2cba0a6c8cc" />
 
 
 🔹 **Parking Slot Availability**  
+
 <img width="1811" height="810" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/d2602aa6-babd-48b6-9f23-7726687aaa1d" />
 
+
 🔹 **Arduino Circuit Design**  
+
 <img width="1046" height="741" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/bec62cb8-95c2-4007-9fb7-3160c2ddea20" />
 
+
 🔹 **Hardware Implementation**  
+
 <img width="733" height="784" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/ec34f9ae-d44d-4cfa-99a4-b50257eeb2c2" />
+
 
